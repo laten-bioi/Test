@@ -1,7 +1,7 @@
 # Test
 Test repository to practice with Github  
 
-# Ethan's Github Method
+## Ethan's Github Method
 After a bit of experimentation, I've found that an easy way to use GitHub is to combine it with Atom text editor which you can download [here](https://atom.io/)
 Here is a quick guide to getting set up (Note there are many ways to accomplish these goals)
 
